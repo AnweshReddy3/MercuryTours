@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+	<listener class-name="resources.ListenerTestNG"></listener>
+</listeners>
+
+  <test name="Regression">
+  
+  <parameter name="userName" value="anwesh"></parameter>
+  <parameter name="password" value="1234"></parameter>
+  <parameter name="userName1" value="anwesh"></parameter>
+  <parameter name="password1" value="1234"></parameter>
+  
+    <classes>
+      <class name="tours.OneWaytripTestCase"/>
+      <class name="tours.RoundTripTestCase"/>
+      <class name="tours.RegisterTestCase"/>
+      <class name="tours.HomePageTestCase"/>
+      <class name="tours.SignOnTestCase"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

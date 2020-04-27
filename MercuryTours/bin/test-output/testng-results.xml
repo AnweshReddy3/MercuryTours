@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23167" started-at="2020-04-22T03:20:49 IST" finished-at="2020-04-22T03:21:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23167" started-at="2020-04-22T03:20:49 IST" finished-at="2020-04-22T03:21:12 IST">
+      <class name="tours.RegisterTestCase">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:tours.RegisterTestCase@47eaca72]" name="initializeDriver" is-config="true" duration-ms="10095" started-at="2020-04-22T03:20:49 IST" finished-at="2020-04-22T03:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="registerPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tours.RegisterTestCase@47eaca72]" name="registerPage" duration-ms="5538" started-at="2020-04-22T03:20:59 IST" data-provider="getData" finished-at="2020-04-22T03:21:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anwesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oruganti]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[a@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ranipuram1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[kothapally1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[karimnagar1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[telangana1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[505450]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[anwesh]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPage -->
+        <test-method status="PASS" signature="registerPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tours.RegisterTestCase@47eaca72]" name="registerPage" duration-ms="3519" started-at="2020-04-22T03:21:05 IST" data-provider="getData" finished-at="2020-04-22T03:21:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[snehith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yeruva]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[b@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ranipuram2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[kothapally2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[karimnagar2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[telangana2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[505451]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[UNITED STATES]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[snehith]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPage -->
+        <test-method status="PASS" signature="registerPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tours.RegisterTestCase@47eaca72]" name="registerPage" duration-ms="3369" started-at="2020-04-22T03:21:08 IST" data-provider="getData" finished-at="2020-04-22T03:21:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karunya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yeruva]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[c@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ranipuram3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[kothapally3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[karimnagar3]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[telangana3]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[505452]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[UNITED KINGDOM]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[karunya]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPage -->
+        <test-method status="PASS" signature="driverQuit()[pri:0, instance:tours.RegisterTestCase@47eaca72]" name="driverQuit" is-config="true" duration-ms="85" started-at="2020-04-22T03:21:12 IST" finished-at="2020-04-22T03:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- tours.RegisterTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

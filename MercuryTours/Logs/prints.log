@@ -1,0 +1,24 @@
+22:02:34.959 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:35.098 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:35.098 [main] DEBUG tours.RegisterTestCase - Getting username textbox
+22:02:35.191 [main] INFO  tours.RegisterTestCase - Entered the username snehith
+22:02:35.191 [main] DEBUG tours.RegisterTestCase - Getting password textbox
+22:02:35.248 [main] INFO  tours.RegisterTestCase - Entered the username 12345
+22:02:35.248 [main] DEBUG tours.RegisterTestCase - Getting submit button
+22:02:38.822 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:02:38.824 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:38.909 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:38.910 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:39.755 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:39.755 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:41.942 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:02:41.942 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:42.071 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:42.072 [main] DEBUG tours.RegisterTestCase - Getting username textbox
+22:02:42.158 [main] INFO  tours.RegisterTestCase - Entered the username karunya
+22:02:42.158 [main] DEBUG tours.RegisterTestCase - Getting password textbox
+22:02:42.206 [main] INFO  tours.RegisterTestCase - Entered the username 123456
+22:02:42.206 [main] DEBUG tours.RegisterTestCase - Getting submit button
+22:02:45.490 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:02:45.491 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:45.573 [main] INFO  tours.RegisterTestCase - Successfully quit the driver

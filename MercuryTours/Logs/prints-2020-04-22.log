@@ -1,0 +1,122 @@
+22:01:32.404 [main] INFO  tours.RegisterTestCase - Successfully entered the kothapally1
+22:01:32.474 [main] INFO  tours.RegisterTestCase - Successfully entered the karimnagar1
+22:01:32.540 [main] INFO  tours.RegisterTestCase - Successfully entered the telangana1
+22:01:32.594 [main] INFO  tours.RegisterTestCase - Successfully entered the 505450
+22:01:32.668 [main] INFO  tours.RegisterTestCase - Successfully selected the INDIA
+22:01:32.733 [main] INFO  tours.RegisterTestCase - Successfully entered the anwesh
+22:01:32.785 [main] INFO  tours.RegisterTestCase - Successfully entered the 1234
+22:01:32.830 [main] INFO  tours.RegisterTestCase - Successfully entered the 1234
+22:01:35.578 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:01:36.754 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:01:36.838 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:01:36.839 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:01:37.694 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:01:37.694 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:01:39.899 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:01:39.900 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:01:40.037 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:01:41.521 [main] INFO  tours.RegisterTestCase - Successfully clicked the register button
+22:01:41.699 [main] INFO  tours.RegisterTestCase - Successfully entered the snehith
+22:01:41.753 [main] INFO  tours.RegisterTestCase - Successfully entered the yeruva
+22:01:41.803 [main] INFO  tours.RegisterTestCase - Successfully entered the 12345
+22:01:41.867 [main] INFO  tours.RegisterTestCase - Successfully entered the b@gmail.com
+22:01:41.927 [main] INFO  tours.RegisterTestCase - Successfully entered the ranipuram2
+22:01:41.991 [main] INFO  tours.RegisterTestCase - Successfully entered the kothapally2
+22:01:42.059 [main] INFO  tours.RegisterTestCase - Successfully entered the karimnagar2
+22:01:42.123 [main] INFO  tours.RegisterTestCase - Successfully entered the telangana2
+22:01:42.177 [main] INFO  tours.RegisterTestCase - Successfully entered the 505451
+22:01:42.214 [main] INFO  tours.RegisterTestCase - Successfully selected the UNITED STATES
+22:01:42.268 [main] INFO  tours.RegisterTestCase - Successfully entered the snehith
+22:01:42.325 [main] INFO  tours.RegisterTestCase - Successfully entered the 12345
+22:01:42.374 [main] INFO  tours.RegisterTestCase - Successfully entered the 12345
+22:01:44.651 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:01:45.874 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:01:45.959 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:01:45.959 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:01:46.851 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:01:46.851 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:01:48.888 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:01:48.888 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:01:49.026 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:01:50.620 [main] INFO  tours.RegisterTestCase - Successfully clicked the register button
+22:01:50.792 [main] INFO  tours.RegisterTestCase - Successfully entered the karunya
+22:01:50.851 [main] INFO  tours.RegisterTestCase - Successfully entered the yeruva
+22:01:50.912 [main] INFO  tours.RegisterTestCase - Successfully entered the 123456
+22:01:50.981 [main] INFO  tours.RegisterTestCase - Successfully entered the c@gmail.com
+22:01:51.042 [main] INFO  tours.RegisterTestCase - Successfully entered the ranipuram3
+22:01:51.107 [main] INFO  tours.RegisterTestCase - Successfully entered the kothapally3
+22:01:51.174 [main] INFO  tours.RegisterTestCase - Successfully entered the karimnagar3
+22:01:51.238 [main] INFO  tours.RegisterTestCase - Successfully entered the telangana3
+22:01:51.291 [main] INFO  tours.RegisterTestCase - Successfully entered the 505452
+22:01:51.362 [main] INFO  tours.RegisterTestCase - Successfully selected the UNITED KINGDOM
+22:01:51.434 [main] INFO  tours.RegisterTestCase - Successfully entered the karunya
+22:01:51.491 [main] INFO  tours.RegisterTestCase - Successfully entered the 123456
+22:01:51.545 [main] INFO  tours.RegisterTestCase - Successfully entered the 123456
+22:01:54.298 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:01:55.656 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:01:55.736 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:01:55.737 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:01:56.555 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:01:56.555 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:01:59.387 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:01:59.387 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:01:59.526 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:01:59.527 [main] DEBUG tours.RegisterTestCase - Refreshing the Home page
+22:02:00.318 [main] INFO  tours.RegisterTestCase - Refreshed the Home page
+22:02:00.318 [main] DEBUG tours.RegisterTestCase - Getting the flights element
+22:02:00.332 [main] INFO  tours.RegisterTestCase - Successfully invoked the flights element
+22:02:03.314 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> xpath: //a[contains(text(),'Flights')]]
+22:02:03.314 [main] DEBUG tours.RegisterTestCase - Getting the hotels element
+22:02:04.544 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> link text: Hotels]
+22:02:04.544 [main] DEBUG tours.RegisterTestCase - Getting the carRentals element
+22:02:05.597 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> link text: Car Rentals]
+22:02:05.600 [main] DEBUG tours.RegisterTestCase - Getting the cruises element
+22:02:07.511 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> link text: Cruises]
+22:02:07.511 [main] DEBUG tours.RegisterTestCase - Getting the destinations element
+22:02:08.846 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> link text: Destinations]
+22:02:08.846 [main] DEBUG tours.RegisterTestCase - Getting the destinations element
+22:02:10.801 [main] INFO  tours.RegisterTestCase - Clicked on [[ChromeDriver: chrome on MAC (62c5f5256e31167676271df3c29c24a8)] -> link text: Vacations]
+22:02:10.803 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:10.889 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:10.890 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:11.686 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:11.686 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:14.524 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:02:14.524 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:14.664 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:14.712 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:14.796 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:14.798 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:15.516 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:15.516 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:18.057 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:02:18.057 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:18.172 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:18.209 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:18.286 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:18.287 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:19.008 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:19.008 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:23.281 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:02:23.282 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:23.414 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:23.968 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:24.046 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:24.102 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:24.937 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:24.937 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:27.274 [main] INFO  tours.RegisterTestCase - Invoked the url
+22:02:27.274 [main] DEBUG tours.RegisterTestCase - Maximizing the window
+22:02:27.403 [main] INFO  tours.RegisterTestCase - Successfully maximized the window
+22:02:27.405 [main] DEBUG tours.RegisterTestCase - Getting username textbox
+22:02:27.508 [main] INFO  tours.RegisterTestCase - Entered the username anwesh
+22:02:27.508 [main] DEBUG tours.RegisterTestCase - Getting password textbox
+22:02:27.554 [main] INFO  tours.RegisterTestCase - Entered the username 1234
+22:02:27.554 [main] DEBUG tours.RegisterTestCase - Getting submit button
+22:02:31.390 [main] INFO  tours.RegisterTestCase - Clicked on submit button
+22:02:31.391 [main] DEBUG tours.RegisterTestCase - Quitting the driver
+22:02:31.473 [main] INFO  tours.RegisterTestCase - Successfully quit the driver
+22:02:31.473 [main] DEBUG tours.RegisterTestCase - Initializing the driver
+22:02:32.205 [main] INFO  tours.RegisterTestCase - Initialized the driver
+22:02:32.205 [main] DEBUG tours.RegisterTestCase - Invoking the url
+22:02:34.959 [main] INFO  tours.RegisterTestCase - Invoked the url
