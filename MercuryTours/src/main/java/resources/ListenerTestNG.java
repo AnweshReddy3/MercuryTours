@@ -11,9 +11,11 @@ public class ListenerTestNG implements ITestListener{
 	BaseClass base = new BaseClass();
 
 	public void onTestStart(ITestResult result) {
+		System.out.println("test result on start");
 	}
 
 	public void onTestSuccess(ITestResult result) {
+		System.out.println("test result on success");
 	}
 
 	public void onTestFailure(ITestResult result) {
@@ -27,6 +29,7 @@ public class ListenerTestNG implements ITestListener{
 	}
 
 	public void onTestSkipped(ITestResult result) {
+		System.out.println("test result on skipped");
 	}
 
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
