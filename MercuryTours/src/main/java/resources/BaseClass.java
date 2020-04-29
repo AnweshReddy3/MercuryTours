@@ -55,6 +55,7 @@ public class BaseClass {
 				System.getProperty("user.dir") + "//src/main/java//utils//data1.properties");
 		
 		prop.load(fis);
+		System.out.println("property file loaded");
 		
 		String browserName = prop.getProperty("browserName");
 
